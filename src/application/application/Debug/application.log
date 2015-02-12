@@ -1,0 +1,23 @@
+﻿빌드 시작: 2/12/2015 12:14:43 AM
+     1>2 노드의 "D:\Lecture2015Spring\Tangible Interface Design\mp1\codes\application\application\application.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ID:\opencv\opencv\build\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\application.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt application.cpp imageprocessing.cpp
+         imageprocessing.cpp
+     1>d:\lecture2015spring\tangible interface design\mp1\codes\application\application\imageprocessing.cpp(52): warning C4244: '초기화 중' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         application.cpp
+         코드를 생성하고 있습니다...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Lecture2015Spring\Tangible Interface Design\mp1\codes\application\Debug\application.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\opencv\opencv\build\x86\vc11\lib Magnification.lib Dxva2.lib opencv_highgui2410d.lib opencv_photo2410d.lib opencv_imgproc2410d.lib opencv_core2410d.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Lecture2015Spring\Tangible Interface Design\mp1\codes\application\Debug\application.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Lecture2015Spring\Tangible Interface Design\mp1\codes\application\Debug\application.lib" /MACHINE:X86 /NODEFAULTLIB:library Debug\application.res
+         Debug\application.obj
+         Debug\FullscreenMagnifierSample.obj
+         Debug\imageprocessing.obj
+         Debug\resolution.obj
+         Debug\Serial.obj
+         Debug\SerialUtil.obj
+         Debug\stdafx.obj
+         application.vcxproj -> D:\Lecture2015Spring\Tangible Interface Design\mp1\codes\application\Debug\application.exe
+     1>"D:\Lecture2015Spring\Tangible Interface Design\mp1\codes\application\application\application.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:04.27
