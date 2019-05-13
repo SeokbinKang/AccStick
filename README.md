@@ -1,4 +1,4 @@
-[![Demo](https://img.youtube.com/vi/mLlHz-KcxJw/0.jpg)](https://youtu.be/mLlHz-KcxJw)
+[![Demo](https://img.youtube.com/vi/mLlHz-KcxJw/default.jpg)](https://youtu.be/mLlHz-KcxJw)
 
 
 # AccStick, ease your computing
